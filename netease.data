@@ -1,0 +1,21 @@
+{
+	"APPID":"aecfrxodyqaaaajp-g-x19",
+	"APP_CHANNEL":"netease",
+	"JF_GAMEID":"x19",
+	"UNISDK_JF_GAS3":"1",
+	"UNISDK_JF_GAS3_URL":"https://mgbsdk.matrix.netease.com/x19/sdk/",
+	"JF_LOG_KEY":"3Cz7dGX2EYHORebBUBHwCZ7pltZ_4l-t",
+	"JF_PAY_LOG_URL": "https://applog.matrix.netease.com/client/sdk/pay_log",
+	"MPAY_RESTYPE":  "2",
+	"MPAY_RESPATH":  "mpay/2.4.0/skin_x19.zip",
+	"MPAY_ResPath":  "",
+	"MPAY_DEVICE_UID":  "device",
+	"MPAY_GAME_ICON_PATH": "game-icon",
+	"MPAY_DEBUG":  "1",
+	"MPAY_ENABLE_PARENT": "0",
+	"MPAY_STYLE":  "1",
+	"MPAY_PAY_ENABLE_PARENT": "0",
+	"MPAY_PAY_STYLE": "2",
+	"DEBUG_MODE":  "0",
+	"DEBUG_LOG":  "0"
+}
