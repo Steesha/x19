@@ -1,0 +1,785 @@
+{
+	"ServerList":	
+	[
+		{
+			"ServerName":	"Hypixel",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"76826543757722624",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"x19hypixel.nie.netease.com",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"花雨庭",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"77114517833647104",
+					"NeedRealNameAuth":	true,
+					"ServerIpAddress":	"59.111.137.99",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"梦世界",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"77140593557373952",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"china-pc.i5mc.com",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"秋月之光",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4624156820643253920",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.183",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"梦之国",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4622703576474709429",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.204",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"MineMc",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"75345870798717952",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.8.109",
+					"ServerPort":	25566,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"YourCraft",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4624705106696583795",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"guofu.ycraft.cn",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"西瓜星球",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4632806141003957902",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.63.97",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"神魔战域2D",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"75620503141745664",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.8.111",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"DoMCer",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4634308743419409922",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"domcer.domcer.com",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"MC部落",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4619328008690456675",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.65.8",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"Clay粘土",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4619585369740458545",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.15",
+					"ServerPort":	25565,
+					"ClientVer":	"1.12.2"
+				}
+			]
+		},
+		{
+			"ServerName":	"东方大陆",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4619737516439909914",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.17.167",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"战争余烬-明日之后",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4624905298613201940",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.63.55",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"刀剑群组",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4630817275475375343",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.157",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"第九大陆",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4627800895398370636",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.67.17",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"楼楼世界",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"100540920033707008",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.55.236",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"方块云",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4627913028985756910",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.63.59",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"艾尔利雅",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4622580075322428635",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.9",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"秘境传说",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4623115447245270668",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.149",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"零号任务",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4621406833835478921",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.55.232",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"渺仙录",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4622038507165530686",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.55.240",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"国家建筑师服务器",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4628333796902177266",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.19.24",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"我的手艺",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4620282087926026475",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.19.17",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"遗忘之城-纪元魔域",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4621725202768901133",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.17.90",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"麦C大道",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4621126874613149281",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.63.57",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"国土安全",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4628333796902177266",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.210",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"梦想世界",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4622278046164476475",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.55.238",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"镶金玫瑰旅店",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4619441585934536142",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.19.16",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"第七空间-暗黑战神",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4626763580452625875",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.8.106",
+					"ServerPort":	25566,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"一方世界-我叫毛磕瓜",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4627848420304438517",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.208",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"Crab Family",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4628266733645779290",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.55.242",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"薄暮之城",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4624881007602477709",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.209",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"武侠梦",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4627734658827201734",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"wxm.i5my.com",
+					"ServerPort":	25566,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"斗鱼乐园",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4628709443229904926",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"dyly.i8mc.cn",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"流浪星球",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4634459667340054301",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.169",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"武侠传RPG",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4633892691131038975",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.21",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"绝对领域",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4630368908559089261",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.65.16",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"地球天空",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4626172904771490177",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.19.18",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"神域",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4627744384553439975",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.172",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"像素星球",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4633925294597932103",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.206",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"梦想堡垒",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4630126067232549584",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.63.111",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"云隙",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4631416774672483058",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.65.7",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"时空越迁",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4630895849698323291",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.63.113",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"魔都勇者之路",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4627871019937221800",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.7",
+					"ServerPort":	25566,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"梦想之城",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4630571282632434585",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.65.9",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"起源大陆",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4630722967536585655",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.65.15",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"凌云",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4622034837037300078",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"163.mclyss.com",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"第七空间-天空之境",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4632756178617571961",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.63.56",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"发烧生存-方块帝国",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4635146646447965218",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.17",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"自由部落",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4630947467280064922",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.67.16",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"彩虹异世界",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4634836878441155129",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.64.242",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"摸鱼人生",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4635545293824246239",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"mc163.i7me.cn",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"次元大陆",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4635387896004577753",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.63.87",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"王国之争",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4634014383695733846",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.61.158",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"圣杯战争",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4635981892083405845",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.63.109",
+					"ServerPort":	25001,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"荒川镇",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4634502778070246586",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"163.mchcz.cn",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"圣域传说",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4630067038621234486",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.63.110",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"第五季节",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4635576484468354116",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"520mc.cc",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		},
+		{
+			"ServerName":	"冒险大陆",
+			"Data":	
+			[
+				{
+					"ServerEntityId":	"4636124324060767349",
+					"NeedRealNameAuth":	false,
+					"ServerIpAddress":	"42.186.65.14",
+					"ServerPort":	25565,
+					"ClientVer":	"1.8.9"
+				}
+			]
+		}
+	]
+}
