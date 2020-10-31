@@ -7,8 +7,6 @@
 	"JF_LOG_KEY":"3Cz7dGX2EYHORebBUBHwCZ7pltZ_4l-t",
 	"JF_PAY_LOG_URL": "https://applog.matrix.netease.com/client/sdk/pay_log",
 	"MPAY_RESTYPE":  "2",
-	"MPAY_RESPATH":  "mpay/2.4.0/skin_x19.zip",
-	"MPAY_ResPath":  "",
 	"MPAY_DEVICE_UID":  "device",
 	"MPAY_GAME_ICON_PATH": "game-icon",
 	"MPAY_DEBUG":  "1",
